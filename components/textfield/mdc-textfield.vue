@@ -143,7 +143,8 @@ export default {
             'password',
             'tel',
             'url',
-            'number'
+            'number',
+            'date'
           ].indexOf(value) !== -1
         )
       }
